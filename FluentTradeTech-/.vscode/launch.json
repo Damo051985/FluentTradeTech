@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "name": "Microsoft cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "FluentTradeTech",
+            "startupObjectId": 31,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "e67405ee-4d9c-4e48-9c5b-4577cec1a050",
+        }
+    ]
+}
